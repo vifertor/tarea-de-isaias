@@ -1,0 +1,15 @@
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\bin\Debug\net8.0\WebApi.Interface.deps.json
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\bin\Debug\net8.0\WebApi.Interface.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\bin\Debug\net8.0\WebApi.Interface.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\bin\Debug\net8.0\WebApi.Model.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\bin\Debug\net8.0\WebApi.Model.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\WebApi.Interface.csproj.AssemblyReference.cache
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\WebApi.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\WebApi.Interface.AssemblyInfoInputs.cache
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\WebApi.Interface.AssemblyInfo.cs
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\WebApi.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\WebApi.I.083A3731.Up2Date
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\WebApi.Interface.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\refint\WebApi.Interface.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\WebApi.Interface.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Interface\obj\Debug\net8.0\ref\WebApi.Interface.dll

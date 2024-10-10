@@ -1,0 +1,11 @@
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\bin\Debug\net8.0\WebApi.Model.deps.json
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\bin\Debug\net8.0\WebApi.Model.dll
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\bin\Debug\net8.0\WebApi.Model.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\obj\Debug\net8.0\WebApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\obj\Debug\net8.0\WebApi.Model.AssemblyInfoInputs.cache
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\obj\Debug\net8.0\WebApi.Model.AssemblyInfo.cs
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\obj\Debug\net8.0\WebApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\obj\Debug\net8.0\WebApi.Model.dll
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\obj\Debug\net8.0\refint\WebApi.Model.dll
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\obj\Debug\net8.0\WebApi.Model.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\WebApi.Model\obj\Debug\net8.0\ref\WebApi.Model.dll

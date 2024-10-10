@@ -1,0 +1,17 @@
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\bin\Debug\net8.0\WebApi.Implementation.deps.json
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\bin\Debug\net8.0\WebApi.Implementation.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\bin\Debug\net8.0\WebApi.Implementation.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\bin\Debug\net8.0\WebApi.Interface.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\bin\Debug\net8.0\WebApi.Model.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\bin\Debug\net8.0\WebApi.Model.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\bin\Debug\net8.0\WebApi.Interface.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\WebApi.Implementation.csproj.AssemblyReference.cache
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\WebApi.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\WebApi.Implementation.AssemblyInfoInputs.cache
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\WebApi.Implementation.AssemblyInfo.cs
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\WebApi.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\WebApi.I.773DF916.Up2Date
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\WebApi.Implementation.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\refint\WebApi.Implementation.dll
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\WebApi.Implementation.pdb
+C:\Users\Isaías Vindell\Pictures\tarea\Services\WebApi.Implementation\obj\Debug\net8.0\ref\WebApi.Implementation.dll

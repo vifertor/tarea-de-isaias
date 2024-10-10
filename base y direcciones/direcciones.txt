@@ -1,0 +1,33 @@
+insertar
+direccion: "http://localhost:5015/api/vacunas/insertar"
+
+{
+		"nombreVacuna": "Vacuna 5554444",
+		"descripcion": "Descripción de la Vacuna A",
+		"estado": true,
+		"fechaAplicacion": "2024-10-09T00:00:00",
+		"idAnimal": 1
+}
+
+Actualizar
+direccion:"http://localhost:5015/api/vacunas/modificar"
+{
+		"idVacuna": 7,
+		"nombreVacuna": "Vacuna isa",
+		"descripcion": "Descripción de la Vacuna A",
+		"estado": true,
+		"fechaAplicacion": "2024-10-09T00:00:00",
+		"idAnimal": 1
+	}
+
+
+listar
+dirección: "http://localhost:5015/api/vacunas/listar"
+
+
+buscar por id
+direccion: "http://localhost:5015/api/vacunas/buscar/1"
+
+eliminar
+dirección:"http://localhost:5015/api/vacunas/eliminar/4"
+
